@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\lexus\source\repos\100points\100points\main.cpp(25,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  100points.vcxproj -> C:\Users\lexus\source\repos\100points\x64\Debug\100points.exe
